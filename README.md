@@ -27,7 +27,7 @@ MongoDB  Java EE
 
 📝 En proceso de crear mi blog.
 
-- 👯 Estoy buscando colaborar en algún desafío y sobre todo aprender a ser un poco mejor cada día. 😊
+- 👯 Estoy buscando colaborar en algún desafío y sobre todo aprender 😊
 
 - ⚡ Dato curioso:
 - 
