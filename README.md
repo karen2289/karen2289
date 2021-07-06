@@ -10,7 +10,7 @@ Me gusta...
 
 🌄 Viajar
 
-🐶 Perros
+🐶 Me encantan las mascotas pero sobre todo los perros
 
 🏞 Pasear en la naturaleza
 
