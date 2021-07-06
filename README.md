@@ -7,10 +7,15 @@ Desarrolladora Web FullStack Jr, desde siempre sentí mucha curiosidad de como f
 
 Me gusta...
 
+
 🌄 Viajar
+
 🐶 Perros
+
 🏞 Pasear en la naturaleza
+
 ☕ Café
+
 
 Mis principales lenguajes / plataformas de programación son: Javascript, Angular, React, Sass, Bootstrap, Node.js, PHP, Java EE.
 
