@@ -30,5 +30,6 @@ MongoDB  Java EE
 - 👯 Estoy buscando colaborar en algún desafío y sobre todo aprender 😊
 
 - ⚡ Dato curioso:
-- 
+
+
   Me gusta programar con 🎶🎶música y cascos pero me adapto al sitio en el que me encuentre, me considero una persona estrovertida, amiga de mis amigos, curiosa y sobre todo autodidacta por que para aprender no hay límites y más ahora que esta internet con mucha informacíon a nuestro alcance.
