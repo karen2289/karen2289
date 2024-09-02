@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karen Aguirre</h1>
 <h3 align="center">Una apasionada de la tecnología y sobre todo la programación.</h3>
 
-- 🔭 I’m currently working on **Para una empresa privada del Gobierno.**
+- 🔭 I’m currently working on **Para una empresa privada**
 
 - 🌱 I’m currently learning **React y Python**
 
